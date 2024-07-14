@@ -37,8 +37,8 @@ Java Extension Pack for VS Code
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/LibraryManagementSystem.git
-   cd LibraryManagementSystem
+   https://github.com/rajat705/LibraryManagement.git
+   cd LibraryManagement
    cd src
    javac LibraryManagementSystem.java
    java LibraryManagementSystem
